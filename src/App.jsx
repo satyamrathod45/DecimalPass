@@ -3,7 +3,6 @@ import React from 'react'
 import Navbar from './Component/Navbar'
 import Hero from './Component/Hero'
 import PassManager from './Component/PassManager'
-
 function App() {
   const [count, setCount] = useState(0)
 
